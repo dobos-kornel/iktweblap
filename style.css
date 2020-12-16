@@ -1,0 +1,48 @@
+body {
+    background-color: #999999;
+    color: black;
+}
+
+a,
+a:hover,
+a:visited,
+a:active {
+    color: white;
+}
+
+table {
+    background-color: white;
+    border: none;
+    width: 670px;
+}
+
+table tr td {
+    margin: 2px;
+    padding: 2px;
+}
+
+#belso {
+    width: 650px;
+    border: none;
+    color: white;
+}
+
+#belso tr td {
+    background-color: #485808;
+    height: 60pt;
+    margin: 2px;
+    padding: 2px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.bal {
+    float: left;
+}
+
+div {
+    text-align: center;
+}
